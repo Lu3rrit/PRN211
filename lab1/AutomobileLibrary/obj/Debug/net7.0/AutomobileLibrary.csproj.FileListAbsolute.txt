@@ -1,0 +1,11 @@
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\bin\Debug\net7.0\AutomobileLibrary.deps.json
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\bin\Debug\net7.0\AutomobileLibrary.dll
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\bin\Debug\net7.0\AutomobileLibrary.pdb
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.AssemblyInfo.cs
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.dll
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\refint\AutomobileLibrary.dll
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.pdb
+D:\SE\S5. PRN211\PRN Solution\AutomobileLibrary\obj\Debug\net7.0\ref\AutomobileLibrary.dll
