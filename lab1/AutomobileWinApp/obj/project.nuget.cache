@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QW6thlCWuoEY8XcfLDVjaalSZlzQqAqq0VXQ2r74SNOLZKpT1XSF+Ho0jDa6+lUBQ+jKzZ8zt53LL2a3lPCG7w==",
+  "dgSpecHash": "z/Xylb+t90Jb2ZEUC9Wnq6twpGbvkuER+3QcKARxcXEjzb6W5sxdQyt1S3nKF1A3CxQ5jPzhfBFt/3T12aW07w==",
   "success": true,
-  "projectFilePath": "D:\\.net\\c#\\lab1\\lab1\\AutomobileWinApp\\AutomobileWinApp.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\.net\\PRN211.git\\lab1\\AutomobileWinApp\\AutomobileWinApp.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

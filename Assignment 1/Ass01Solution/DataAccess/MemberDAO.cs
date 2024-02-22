@@ -43,14 +43,9 @@ namespace DataAccess
         }
         private static List<MemberObject> MemberList = new List<MemberObject>()
         {
-            new MemberObject{MemberID=2, MemberName="NXBach", Email = "bachnx@gmail.com", Password = "123456", City = "Hanoi", Country = "VietNam" },
-            new MemberObject{MemberID=3,MemberName="Alan",Email="alan@gmail.com",Password = "123456789",City="London",Country="England"},
-            new MemberObject{MemberID=4,MemberName="BBB",Email="bbb@gmail.com",Password = "123456789",City="HCM",Country="VietNam"},
-            new MemberObject{MemberID=5,MemberName="CCC",Email="ccc@gmail.com",Password = "123456789",City="DaNang",Country="VietNam"},
-            new MemberObject{MemberID=6,MemberName="DDD",Email="ddd@gmail.com",Password = "123456789",City="Liverpool",Country="England"},
-            new MemberObject{MemberID=7,MemberName="EEE",Email="eee@gmail.com",Password = "123456789",City="Tokyo",Country="Japan"},
-            new MemberObject{MemberID=8,MemberName="FFF",Email="fff@gmail.com",Password = "123456789",City="Osaka",Country="Japan"},
-            new MemberObject{MemberID=9,MemberName="GGG",Email="ggg@gmail.com",Password = "123456789",City="Kyoto",Country="Japan"},
+            new MemberObject{MemberID=2, MemberName="linhtk", Email = "khanhlinhyb03@gmail.com", Password = "123456", City = "Hanoi", Country = "VietNam" },
+            new MemberObject{MemberID=3, MemberName="bruh", Email = "bruh@gmail.com", Password = "123456", City = "Frankfruit", Country = "Germany" },
+
         };
         private static MemberDAO instance = null!;
         private static readonly object instanceLock = new object();

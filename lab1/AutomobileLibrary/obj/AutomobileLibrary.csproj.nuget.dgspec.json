@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\c#\\lab1\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {}
+    "D:\\.net\\PRN211.git\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {}
   },
   "projects": {
-    "D:\\.net\\c#\\lab1\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+    "D:\\.net\\PRN211.git\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\c#\\lab1\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectUniqueName": "D:\\.net\\PRN211.git\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "projectName": "AutomobileLibrary",
-        "projectPath": "D:\\.net\\c#\\lab1\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectPath": "D:\\.net\\PRN211.git\\lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\c#\\lab1\\lab1\\AutomobileLibrary\\obj\\",
+        "outputPath": "D:\\.net\\PRN211.git\\lab1\\AutomobileLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,26 +55,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.14, 7.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
