@@ -28,7 +28,7 @@ namespace AutomobileLibrary.DataAccess
         public IEnumerable<Car> GetCarList()
         {
             IDataReader dataReader = null!;
-            string SQLSelect = "Select CarID, CarName, Manufacturer, Price, ReleaseYear from Cars";
+            string SQLSelect = "Select CarID, CarName, Manufacturer, Price, ReleasedYear from Cars";
             var cars = new List<Car>();
             try
             {
@@ -41,7 +41,7 @@ namespace AutomobileLibrary.DataAccess
                         CarName = dataReader.GetString(1),
                         Manufacturer = dataReader.GetString(2),
                         Price = dataReader.GetDecimal(3),
-                        ReleaseYear = dataReader.GetInt32(4)
+                        ReleasedYear = dataReader.GetInt32(4)
                     });
                 }
             }
@@ -61,7 +61,7 @@ namespace AutomobileLibrary.DataAccess
         {
             Car car = null!;
             IDataReader dataReader = null!;
-            string SQLSelect = "Select CarID, CarName, Manufacturer, Price, ReleaseYear " + "from Cars where CarID = @CarID";
+            string SQLSelect = "Select CarID, CarName, Manufacturer, Price, ReleasedYear " + "from Cars where CarID = @CarID";
             try
             {
                 var param = dataProvider.CreateParameter("@CarID", 4, carID, DbType.Int32);
@@ -74,7 +74,7 @@ namespace AutomobileLibrary.DataAccess
                         CarName = dataReader.GetString(1),
                         Manufacturer = dataReader.GetString(2),
                         Price = dataReader.GetDecimal(3),
-                        ReleaseYear = dataReader.GetInt32(4)
+                        ReleasedYear = dataReader.GetInt32(4)
                     };
                 }
             }
@@ -97,13 +97,13 @@ namespace AutomobileLibrary.DataAccess
                 Car pro = GetCarByID(car.CarID);
                 if(pro == null)
                 {
-                    string SQLInsert = "Insert Cars values(@CarID, @CarName, @Manufacturer, @Price, @ReleaseYear)";
+                    string SQLInsert = "Insert Cars values(@CarID, @CarName, @Manufacturer, @Price, @ReleasedYear)";
                     var parameters = new List<SqlParameter>();
                     parameters.Add(dataProvider.CreateParameter("@CarID", 4, car.CarID, DbType.Int32));
                     parameters.Add(dataProvider.CreateParameter("@CarName", 50, car.CarName!, DbType.String));
                     parameters.Add(dataProvider.CreateParameter("@Manufacturer", 50, car.Manufacturer!, DbType.String));
                     parameters.Add(dataProvider.CreateParameter("@Price", 50, car.Price, DbType.Decimal));
-                    parameters.Add(dataProvider.CreateParameter("@ReleaseYear", 4, car.ReleaseYear, DbType.Int32));
+                    parameters.Add(dataProvider.CreateParameter("@ReleasedYear", 4, car.ReleasedYear, DbType.Int32));
                     dataProvider.Insert(SQLInsert, CommandType.Text, parameters.ToArray());
                 }
                 else
@@ -128,13 +128,13 @@ namespace AutomobileLibrary.DataAccess
                 Car c = GetCarByID(car.CarID);
                 if (c != null)
                 {
-                    string SQLUpdate = "Update Cars set CarName = @CarName, Manufacturer = @Manufacturer, Price = @Price, ReleaseYear =@ReleaseYear where CarID = @CarID";
+                    string SQLUpdate = "Update Cars set CarName = @CarName, Manufacturer = @Manufacturer, Price = @Price, ReleaseYear =@ReleasedYear where CarID = @CarID";
                     var parameters = new List<SqlParameter>();
                     parameters.Add(dataProvider.CreateParameter("@CarID", 4, car.CarID, DbType.Int32));
                     parameters.Add(dataProvider.CreateParameter("@CarName", 50, car.CarName!, DbType.String));
                     parameters.Add(dataProvider.CreateParameter("@Manufacturer", 50, car.Manufacturer!, DbType.String));
                     parameters.Add(dataProvider.CreateParameter("@Price", 50, car.Price, DbType.Decimal));
-                    parameters.Add(dataProvider.CreateParameter("@ReleaseYear", 4, car.ReleaseYear, DbType.Int32));
+                    parameters.Add(dataProvider.CreateParameter("@ReleasedYear", 4, car.ReleasedYear, DbType.Int32));
                     dataProvider.Insert(SQLUpdate, CommandType.Text, parameters.ToArray());
                 }
                 else

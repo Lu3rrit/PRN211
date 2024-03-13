@@ -1,0 +1,28 @@
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+D:\Demo\FU\Hands-on Labs\lab3\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+D:\.net\lab3-main\lab3-main\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll

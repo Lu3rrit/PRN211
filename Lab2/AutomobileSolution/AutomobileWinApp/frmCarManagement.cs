@@ -57,7 +57,7 @@ namespace AutomobileWinApp
                 txtCarName.DataBindings.Add("Text", source, "CarName");
                 txtManufacturer.DataBindings.Add("Text", source, "Manufacturer");
                 txtPrice.DataBindings.Add("Text", source, "Price");
-                txtReleaseYear.DataBindings.Add("Text", source, "ReleaseYear");
+                txtReleaseYear.DataBindings.Add("Text", source, "ReleasedYear");
 
                 dgvCarList.DataSource = null;
                 dgvCarList.DataSource = source;
@@ -87,7 +87,7 @@ namespace AutomobileWinApp
                     CarName = txtCarName.Text,
                     Manufacturer = txtManufacturer.Text,
                     Price = decimal.Parse(txtPrice.Text),
-                    ReleaseYear = int.Parse(txtReleaseYear.Text),
+                    ReleasedYear = int.Parse(txtReleaseYear.Text),
                 };
             }
             catch (Exception ex)

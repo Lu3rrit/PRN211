@@ -23,3 +23,16 @@ D:\.net\Lab2\prn-lab1-main\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\n
 D:\.net\Lab2\prn-lab1-main\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
 D:\.net\Lab2\prn-lab1-main\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
 D:\.net\Lab2\prn-lab1-main\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.sourcelink.json
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+D:\.net\PRN211.git\Lab2\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll

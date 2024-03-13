@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oNj4+TNPV2flR8VYk3kHYhKfJ+xrfEbVDZcalEU8PKJSghnPyKv8xVgvLYjHZwknZnp8ACzb5lT76DeMAEkbtQ==",
+  "dgSpecHash": "oVK2pbeiZpUCZWZ1GqDMvI3DM9Cp3vhGMukwYY018BBq+bCH0VRZT44gdX9sPIT1Iww7HKyRvWY0aTivlxMOTQ==",
   "success": true,
-  "projectFilePath": "D:\\.net\\Lab2\\prn-lab1-main\\Lab2\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+  "projectFilePath": "D:\\.net\\PRN211.git\\Lab2\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

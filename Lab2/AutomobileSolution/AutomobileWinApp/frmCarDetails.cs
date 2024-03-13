@@ -24,7 +24,7 @@ namespace AutomobileWinApp
                 txtCarID.Text = CarInfo.CarID.ToString();
                 txtCarName.Text = CarInfo.CarName;
                 txtPrice.Text = CarInfo.Price.ToString();
-                txtReleaseYear.Text = CarInfo.ReleaseYear.ToString();
+                txtReleaseYear.Text = CarInfo.ReleasedYear.ToString();
                 cboManufacturer.Text = CarInfo.Manufacturer!.Trim();
             }
         }//End frmCarDetails_load
@@ -39,7 +39,7 @@ namespace AutomobileWinApp
                     CarName = txtCarName.Text,
                     Manufacturer = cboManufacturer.Text,
                     Price = decimal.Parse(txtPrice.Text),
-                    ReleaseYear = int.Parse(txtReleaseYear.Text)
+                    ReleasedYear = int.Parse(txtReleaseYear.Text)
                 };
                 if(InsertOrUpdate == false)
                 {

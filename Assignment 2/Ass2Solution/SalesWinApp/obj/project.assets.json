@@ -2721,11 +2721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\SalesWinApp\\SalesWinApp.csproj",
+      "projectUniqueName": "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\SalesWinApp\\SalesWinApp.csproj",
       "projectName": "SalesWinApp",
-      "projectPath": "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\SalesWinApp\\SalesWinApp.csproj",
+      "projectPath": "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\SalesWinApp\\SalesWinApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\SalesWinApp\\obj\\",
+      "outputPath": "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\SalesWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2740,18 +2740,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\BussinessObject\\BussinessObject.csproj": {
-              "projectPath": "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\BussinessObject\\BussinessObject.csproj"
+            "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\BussinessObject\\BussinessObject.csproj": {
+              "projectPath": "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\BussinessObject\\BussinessObject.csproj"
             },
-            "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\DataAccess\\DataAccess.csproj"
+            "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -2760,6 +2759,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2784,7 +2788,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

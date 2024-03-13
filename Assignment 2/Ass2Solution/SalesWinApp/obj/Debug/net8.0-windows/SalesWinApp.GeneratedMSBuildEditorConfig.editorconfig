@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SalesWinApp
-build_property.ProjectDir = D:\.net\Lab2\prn-lab1-main\Assignment 2\Ass2Solution\SalesWinApp\
+build_property.ProjectDir = D:\.net\PRN211.git\Assignment 2\Ass2Solution\SalesWinApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

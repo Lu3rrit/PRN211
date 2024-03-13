@@ -90,9 +90,9 @@ D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-win
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreWinApp.AssemblyInfo.cs
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreWinApp.sourcelink.json
-D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreWinApp.csproj.CopyComplete
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreWinApp.dll
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\refint\MyStoreWinApp.dll
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreWinApp.pdb
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreWinApp.genruntimeconfig.cache
 D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\ref\MyStoreWinApp.dll
+D:\.net\PRN211.git\Assignment 1\Ass01Solution\MyStoreWinApp\obj\Debug\net8.0-windows\MyStoreW.B8F62BD6.Up2Date

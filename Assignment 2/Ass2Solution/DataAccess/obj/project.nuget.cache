@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JqHdIpRKHTZIW4D+Pgh7gdCt8NUswKHEr8y34AdEyyJaINCCy5Pg65yiHSkKdPqE/+Y4pBu2iZpgNRZ+KCO26g==",
+  "dgSpecHash": "PbOqvSG9ZMSAMdixk6ehdDF/70rCWI/AmlzcHrD7uW0s7lQHyE4kvnN7SWdiMqOPARMX/gq1x8eCtMnsq51mWw==",
   "success": true,
-  "projectFilePath": "D:\\.net\\Lab2\\prn-lab1-main\\Assignment 2\\Ass2Solution\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\.net\\PRN211.git\\Assignment 2\\Ass2Solution\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
