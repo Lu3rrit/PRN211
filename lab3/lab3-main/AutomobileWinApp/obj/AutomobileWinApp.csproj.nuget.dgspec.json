@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\lab3-main\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj": {}
+    "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj": {}
   },
   "projects": {
-    "D:\\.net\\lab3-main\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+    "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\lab3-main\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectUniqueName": "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "projectName": "AutomobileLibrary",
-        "projectPath": "D:\\.net\\lab3-main\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectPath": "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\lab3-main\\lab3-main\\AutomobileLibrary\\obj\\",
+        "outputPath": "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -88,14 +88,14 @@
         }
       }
     },
-    "D:\\.net\\lab3-main\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj": {
+    "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\lab3-main\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj",
+        "projectUniqueName": "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj",
         "projectName": "AutomobileWinApp",
-        "projectPath": "D:\\.net\\lab3-main\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj",
+        "projectPath": "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileWinApp\\AutomobileWinApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\lab3-main\\lab3-main\\AutomobileWinApp\\obj\\",
+        "outputPath": "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileWinApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,8 +116,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\.net\\lab3-main\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-                "projectPath": "D:\\.net\\lab3-main\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj"
+              "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+                "projectPath": "D:\\.net\\PRN211.git\\lab3\\lab3-main\\AutomobileLibrary\\AutomobileLibrary.csproj"
               }
             }
           }
